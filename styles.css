@@ -1,0 +1,8 @@
+@keyframes my1{
+    from{
+        margin-right: -150px;
+    }
+    to{
+        margin-left: 100px;
+    }
+}
