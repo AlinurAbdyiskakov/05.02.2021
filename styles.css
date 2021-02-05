@@ -7,5 +7,6 @@
     }
 }
 #Example1 {
+    background-image: url(./img/img1.jpg);
     animation-name: my1;
 }
